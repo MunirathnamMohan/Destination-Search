@@ -1,0 +1,27 @@
+.bg-container {
+  background-color: white;
+  min-height: 100vh;
+  width: 100%;
+}
+.con {
+  display: flex;
+}
+.header {
+  font-size: bold;
+  font-family: roboto;
+}
+.inputEle {
+  border: 1px solid #252627;
+  border-right: none;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+.search-img {
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+  border: 1px solid #252627;
+  border-left: none;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
