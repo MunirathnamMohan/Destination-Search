@@ -1,5 +1,9 @@
 /* Write your CSS here */
 .img {
-  height: 90px;
-  width: 130px;
+  height: 140px;
+  width: 170px;
+  margin-right: 20px;
+}
+li {
+  list-style-type: none;
 }
